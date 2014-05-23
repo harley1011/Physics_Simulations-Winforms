@@ -25,3 +25,6 @@ C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\Pendu
 C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\WindowsFormsApplication1.Simulation.resources
 C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\PendulumSimulation.Properties.Resources.resources
 C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\PendulumSimulation.csproj.GenerateResource.Cache
+C:\Users\Harley\Desktop\GitHub\Physics_Simulations-Winforms\Pendulum_Spring_Simulation-Winforms\bin\Debug\Pendulum Simulation.exe.config
+C:\Users\Harley\Desktop\GitHub\Physics_Simulations-Winforms\Pendulum_Spring_Simulation-Winforms\obj\x86\Debug\Pendulum Simulation.exe
+C:\Users\Harley\Desktop\GitHub\Physics_Simulations-Winforms\Pendulum_Spring_Simulation-Winforms\obj\x86\Debug\Pendulum Simulation.pdb

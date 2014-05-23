@@ -1,0 +1,13 @@
+C:\Users\Harley\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Harley\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Harley\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Harley\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Harley\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Harley\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Harley\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Harley\Desktop\WindowsFormsApplication1 - Copy\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Harley\Desktop\WindowsFormsApplication1 - Copy\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Harley\Desktop\Pendulum Simulation\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Harley\Desktop\Pendulum Simulation\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Harley\Desktop\GitHub\Pendulum_Simulation-Winforms\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Harley\Desktop\GitHub\Pendulum_Simulation-Winforms\obj\x86\Debug\WindowsFormsApplication1.pdb
