@@ -1,0 +1,27 @@
+C:\Users\Harley\Desktop\GitHub\Pendulum_Simulation-Winforms Omar\bin\Debug\Pendulum Simulation.exe
+C:\Users\Harley\Desktop\GitHub\Pendulum_Simulation-Winforms Omar\bin\Debug\Pendulum Simulation.pdb
+C:\Users\Harley\Desktop\GitHub\Pendulum_Simulation-Winforms Omar\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Harley\Desktop\GitHub\Pendulum_Simulation-Winforms Omar\obj\x86\Debug\PendulumSimulation.Properties.Resources.resources
+C:\Users\Harley\Desktop\GitHub\Pendulum_Simulation-Winforms Omar\obj\x86\Debug\PendulumSimulation.csproj.GenerateResource.Cache
+C:\Users\Harley\Desktop\GitHub\Pendulum_Simulation-Winforms Omar\obj\x86\Debug\Pendulum Simulation.exe
+C:\Users\Harley\Desktop\GitHub\Pendulum_Simulation-Winforms Omar\obj\x86\Debug\Pendulum Simulation.pdb
+C:\Users\Harley\Desktop\GitHub\Pendulum_Simulation-Winforms Omar\bin\Debug\Pendulum Simulation.exe.config
+C:\Users\Harley\Desktop\GitHub\Pendulum_Simulation-Winforms Omar\obj\x86\Debug\PendulumSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Harley\Desktop\GitHub\Physics_Simulations\Pendulum_Spring_ Simulation-Winforms\bin\Debug\Pendulum Simulation.exe.config
+C:\Users\Harley\Desktop\GitHub\Physics_Simulations\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\Pendulum Simulation.exe
+C:\Users\Harley\Desktop\GitHub\Physics_Simulations\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\Pendulum Simulation.pdb
+C:\Users\Harley\Desktop\GitHub\Physics_Simulations\Pendulum_Spring_ Simulation-Winforms\bin\Debug\Pendulum Simulation.exe
+C:\Users\Harley\Desktop\GitHub\Physics_Simulations\Pendulum_Spring_ Simulation-Winforms\bin\Debug\Pendulum Simulation.pdb
+C:\Users\Harley\Desktop\GitHub\Physics_Simulations\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\PendulumSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Harley\Desktop\GitHub\Physics_Simulations\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Harley\Desktop\GitHub\Physics_Simulations\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\PendulumSimulation.Properties.Resources.resources
+C:\Users\Harley\Desktop\GitHub\Physics_Simulations\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\PendulumSimulation.csproj.GenerateResource.Cache
+C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\bin\Debug\Pendulum Simulation.exe.config
+C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\Pendulum Simulation.exe
+C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\Pendulum Simulation.pdb
+C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\bin\Debug\Pendulum Simulation.exe
+C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\bin\Debug\Pendulum Simulation.pdb
+C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\PendulumSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\WindowsFormsApplication1.Simulation.resources
+C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\PendulumSimulation.Properties.Resources.resources
+C:\Users\Harley\Desktop\Pendulum_Spring_ Simulation-Winforms\obj\x86\Debug\PendulumSimulation.csproj.GenerateResource.Cache
